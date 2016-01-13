@@ -1,3 +1,1 @@
-# reveal2
-
-http://coursemdetw.github.io/reveal2
+# cpbw3
