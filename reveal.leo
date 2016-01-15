@@ -55,6 +55,7 @@
 <v t="leo.20160114013129.1"><vh>@edit 40423225_cp_w13.md</vh></v>
 <v t="leo.20160114013134.1"><vh>@edit 40423225_cp_w14.md</vh></v>
 <v t="leo.20160114013140.1"><vh>@edit 40423225_cp_w15.md</vh></v>
+<v t="leo.20160115193726.1"><vh>@edit 40423225_cp_w16.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="leo.20160114013147.1"><vh>@edit 40423225_cp_w1_p.html</vh></v>
@@ -71,6 +72,7 @@
 <v t="leo.20160114013246.1"><vh>@edit 40423225_cp_w13_p.html</vh></v>
 <v t="leo.20160114013250.1"><vh>@edit 40423225_cp_w14_p.html</vh></v>
 <v t="leo.20160114013255.1"><vh>@edit 40423225_cp_w15_p.html</vh></v>
+<v t="leo.20160115193712.1"><vh>@edit 40423225_cp_w16_p.html</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
