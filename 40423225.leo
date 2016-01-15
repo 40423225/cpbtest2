@@ -16,10 +16,10 @@
 </v>
 <v t="leo.20151218162646.1"><vh>@button user pelican</vh></v>
 <v t="leo.20151218141508.1" a="E"><vh>@path ./../../</vh>
-<v t="leo.20151214225422.1"><vh>@button admin pelican</vh></v>
 <v t="leo.20151218141859.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20151218143122.1"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151218141540.1"><vh>@path content</vh></v>
+<v t="leo.20151214225422.1"><vh>@button admin pelican</vh></v>
 </v>
 </v>
 <v t="leo.20151214224704.13" a="E"><vh>@path pelican</vh>
